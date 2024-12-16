@@ -1,0 +1,6 @@
+.env
+# Elastic Beanstalk Files
+.DS_Store
+.vscode/
+prod.env
+.idea
